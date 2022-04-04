@@ -12,7 +12,7 @@
 	<div id="header">
 		<div class="head-view">
 			<ul>
-				<li><a href="home.php" title="Biobook"><b>biobook</b></a></li>
+				<li><a href="home.php" title="Influencer"><b>Influencer</b></a></li>
 				<li></li>
 				<li></li>
 				<li></li>
