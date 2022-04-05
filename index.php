@@ -11,7 +11,7 @@
 	<div id="header">
 		<div class="head-view">
 			<ul>
-				<li><b>biobook</b></li>
+				<li><b>Hustle</b></li>
 				<li></li>
 				<li></li>
 				<li></li>
@@ -22,11 +22,7 @@
 		</div>
 	</div>
 
-	<div id="container">
-		<div class="image-display">
-				<img src="image/world.png" class="img-style" />
-		</div>
-	</div>
+	
 
 </body>
 

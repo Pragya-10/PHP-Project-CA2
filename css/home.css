@@ -1,11 +1,11 @@
 body {
-  background-image: url("../image/pexels-dominika-roseclay-977736.jpg");
+  background-image: url("../image/b.png");
   background-attachment: fixed;
   background-size: 100% 100%;
 }
 
 #header {
-  background-color: #271465;
+  background-color: #d13512;
   width: 100%;
   margin-top: -8px;
 }

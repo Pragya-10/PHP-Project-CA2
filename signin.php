@@ -2,7 +2,7 @@
 <html>
 
 	<head>
-		<title>Welcome  To Biobook - Sin up, Log in, Chat </title>
+		<title>Welcome  To Influencer Website, Showcase yourself is the best way you can.</title>
 		<link rel="stylesheet" type="text/css" href="css/signin.css">
 	</head>
 
@@ -11,7 +11,7 @@
 	<div id="container">
 		<div class="sign-in-form">
 			<table>
-			<h1>Welcome to Biobook</h1>
+			<h1>Welcome to Hustle</h1>
 			<h2>Log in</h2>
 	<form method="post" action="signin_form.php" enctype="multipart/form-data">
 				<tr>

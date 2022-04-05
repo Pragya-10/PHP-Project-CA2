@@ -2,7 +2,7 @@
 <html>
 
 	<head>
-		<title>Welcome  To Biobook - Sin up, Log in, Chat </title>
+		<title>Welcome  To Influencer Website, Showcase yourself is the best way you can. </title>
 		<link rel="stylesheet" type="text/css" href="css/signup.css">
 	</head>
 
@@ -11,7 +11,7 @@
 	<div id="container">
 		<div class="sign-in-form">
 		<center>	
-			<h1>Welcome to Biobook</h1>
+			<h1>Welcome to Hustle</h1>
 		</center>
 
 			<h2>Sign up</h2>
@@ -136,7 +136,7 @@
 		
 		<br />
 		
-			<strong>Yes, I have read and I accept the <a href="#">Biobook Terms of Use</a> and the <a href="#">Biobook Privacy Statement</a></strong>
+			<strong>Yes, I have read and I accept the <a href="#">Hustle Terms of Use</a> and the <a href="#">Hustle Privacy Statement</a></strong>
 			
 		<br />
 		<br />

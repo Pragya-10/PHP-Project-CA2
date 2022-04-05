@@ -1,16 +1,18 @@
 body {
-  background-image: url("../image/dark.jpg");
+  background-image: url("../image/pexels-pixabay-41949.jpg");
   background-attachment: fixed;
   background-size: 100% 100%;
 }
 
 #header {
-  background-color: #271465;
+  background-color: #9050e5;
   width: 100%;
   margin-top: -8px;
 }
 
 .head-view {
+  display: flex;
+  justify-content: space-between;
   margin: auto;
   width: 1000px;
   line-height: 50px;
