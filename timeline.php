@@ -96,7 +96,7 @@ if($years==1)
 <html>
 
 	<head>
-		<title>Welcome  To Biobook - Sign up, Log in, Post </title>
+		<title>Welcome  To Influencer Website, Showcase yourself is the best way you can. </title>
 		<link rel="stylesheet" type="text/css" href="css/timeline.css">
 	</head>
 
@@ -106,7 +106,7 @@ if($years==1)
 	<div id="header">
 		<div class="head-view">
 			<ul>
-				<li><a href="home.php" title="influencer"><b>Influencer</b></a></li>
+				<li><a href="home.php" title="influencer"><b>Hustle</b></a></li>
 				<li></li>
 				<li></li>
 				<li></li>

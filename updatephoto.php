@@ -2,7 +2,7 @@
 <html>
 
 	<head>
-		<title>Welcome  To Biobook - Sin up, Log in, Chat </title>
+		<title>Welcome  To Influencer Website, Showcase yourself is the best way you can.  </title>
 		<link rel="stylesheet" type="text/css" href="css/home.css">
 	</head>
 

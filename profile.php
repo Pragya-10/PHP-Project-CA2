@@ -2,7 +2,7 @@
 <html>
 
 	<head>
-		<title>Welcome  To Biobook - Sign up, Log in, Post </title>
+		<title>Welcome  To Influencer Website, Showcase yourself is the best way you can. </title>
 		<link rel="stylesheet" type="text/css" href="css/profile.css">
 	</head>
 
@@ -12,7 +12,7 @@
 	<div id="header">
 		<div class="head-view">
 			<ul>
-				<li><a href="home.php" title="Influencer"><b>Influencer</b></a></li>
+				<li><a href="home.php" title="Influencer"><b>Hustle</b></a></li>
 				<li></li>
 				<li></li>
 				<li></li>
