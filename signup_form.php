@@ -14,6 +14,7 @@
 		$email=$_POST['email'];
 		$email2=$_POST['email2'];
 		$password=$_POST['password'];
+		
 		$password2=$_POST['password2'];
 		
 			$sql=mySQLi_query($con,"select * from user WHERE email='$email'");
