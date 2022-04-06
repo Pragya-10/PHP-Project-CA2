@@ -9,7 +9,6 @@
 		$post_id=$_POST['post_id'];
 		$user_id=$_POST['user_id'];
 		$time=time();
-		
 
 		{
 			mySQLi_query($con,"INSERT INTO comments (post_id,user_id,name,content_comment,image,created)

@@ -10,6 +10,7 @@
 							$image_name= addslashes($_FILES['image']['name']);
 							$size = $_FILES["image"] ["size"];
 							$error = $_FILES["image"] ["error"];
+							
 
 							if ($error > 0){
 										die("Error uploading file! Code $error.");
