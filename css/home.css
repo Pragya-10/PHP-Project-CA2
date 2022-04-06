@@ -1,11 +1,11 @@
 body {
-  background-image: url("../image/b.png");
+  background-image: url("../image/pexels-pixabay-41949.jpg");
   background-attachment: fixed;
   background-size: 100% 100%;
 }
 
 #header {
-  background-color: #d13512;
+  background-color: #9050e5;
   width: 100%;
   margin-top: -8px;
 }

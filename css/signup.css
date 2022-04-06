@@ -14,7 +14,7 @@ body {
 }
 
 #container a:hover {
-  color: #ff0000;
+  color: red;
 }
 
 .sign-in-form {
@@ -23,13 +23,13 @@ body {
 }
 
 .sign-in-form h1 {
-  color: #73cfff;
+  color: #e5b730;
   text-shadow: 2px 2px 2px #000000;
   margin: auto;
 }
 
 .sign-in-form h2 {
-  color: #73cfff;
+  color: #e5b730;
   text-shadow: 2px 2px 2px #000000;
   margin-left: 120px;
 }
@@ -40,7 +40,7 @@ body {
 }
 
 .sign-in-form strong {
-  color: #f4f4f4;
+  color: white;
   margin-left: 210px;
 }
 

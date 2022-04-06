@@ -11,8 +11,6 @@ body {
 }
 
 .head-view {
-  display: flex;
-  justify-content: space-between;
   margin: auto;
   width: 1000px;
   line-height: 50px;
